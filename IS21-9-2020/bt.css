@@ -1,0 +1,300 @@
+.content {
+    display: flex;
+}
+.menu1 {
+    padding: 10px;
+    flex: 1;
+    background-color: red;
+    text-align: right;
+}
+.menu2 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.menu3 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.menu4 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.menu5 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.menu6 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.menu7 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.menu8 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.menu9 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.menu10 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.parent {
+    display: flex;
+    margin-top: 2px;
+}
+.parent1 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.parent2 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.parent3 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.parent4 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.parent5 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.parent6 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.child {
+    display: flex;
+    margin-top: 2px;
+}
+.child1 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.child2 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.child3 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.child4 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.son {
+    display: flex;
+    margin-top: 2px;
+}
+.son1 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.son2 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.son3 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.mother {
+    display: flex;
+    margin-top: 2px;
+}
+.mother1 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.mother2 {
+    padding: 10px;
+    flex: 1;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.father {
+    display: flex;
+    margin-top: 2px;
+}
+.father1 {
+    padding: 10px;
+    flex: 40%;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.father2 {
+    padding: 10px;
+    flex: 60%;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.me {
+    display: flex;
+    margin-top: 2px;
+}
+.me1 {
+    padding: 10px;
+    flex: 35%;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.me2 {
+    padding: 10px;
+    flex: 65%;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.sister {
+    display: flex;
+    margin-top: 2px;
+}
+.sister1 {
+    padding: 10px;
+    flex: 30%;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.sister2 {
+    padding: 10px;
+    flex: 70%;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.block {
+    display: flex;
+    margin-top: 2px;
+}
+.block1 {
+    padding: 10px;
+    flex: 25%;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.block2 {
+    padding: 10px;
+    flex: 75%;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.lock {
+    display: flex;
+    margin-top: 2px;
+}
+.lock1 {
+    padding: 10px;
+    flex: 20%;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.lock2 {
+    padding: 10px;
+    flex: 80%;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+}
+.row {
+    display: flex;
+    margin-top: 2px;
+}
+.colum1 {
+    padding: 10px;
+    margin-left: 2px;
+    background-color: red;
+    text-align: right;
+    flex: 1;
+}
+body {
+    height: 800px;
+    width: 800px;
+}
+
+
