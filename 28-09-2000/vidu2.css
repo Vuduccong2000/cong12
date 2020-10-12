@@ -1,0 +1,27 @@
+div {
+    height: 100px;
+    width: 100px;
+    display: flex;
+}
+.river {
+    height:400px;
+    width: 400px;
+    background: yellow;
+    display:flex;
+    flex-wrap: wrap;
+}
+.red {
+    background: red;
+    display: flex;
+}
+.green {
+    background: green;
+    display: flex;
+   
+}
+.pink {
+    background: pink;
+    display: flex;
+    
+}
+
